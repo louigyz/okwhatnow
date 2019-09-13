@@ -1,0 +1,40 @@
+ {
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": [
+    "me.js"
+    ],
+  "scripts": {
+    "start": [
+     "node asf50.js",
+     "node asf51.js",
+     "node asf52.js",
+     "node asf53.js",
+     "node asf54.js",
+     "node asf55.js",
+     "node asf56.js",
+     "node asf57.js",
+     "node asf58.js",
+     "node asf59.js",
+     "node asf60.js",
+     "node asf61.js",
+     "node asf62.js",
+     "node asf63.js",
+     "node asf64.js",
+     "node asf65.js",
+     "node asf66.js",
+     "node asf67.js",
+     "node asf68.js",
+     "node asf69.js",
+     "node asf70.js",
+     "node asf71.js"
+     
+      ]
+  },
+ "dependencies": {
+    "discord.js": "11.5.0",
+    "enmap": "4.8.7"
+
+  }
+}
